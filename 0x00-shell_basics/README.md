@@ -1,1 +1,1 @@
-Creating file types
+Symbols inhabit symbols
