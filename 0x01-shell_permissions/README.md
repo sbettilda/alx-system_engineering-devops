@@ -1,1 +1,1 @@
-New owner Betty
+Empty!
