@@ -1,1 +1,1 @@
-Hiding words
+Letters only please
