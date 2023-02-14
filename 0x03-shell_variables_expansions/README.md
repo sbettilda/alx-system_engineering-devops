@@ -1,1 +1,1 @@
-Odd numbered eggs
+Water and stir
