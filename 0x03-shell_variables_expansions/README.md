@@ -1,1 +1,1 @@
-True knowledge
+Divide and rule
