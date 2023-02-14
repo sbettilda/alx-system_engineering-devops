@@ -1,15 +1,33 @@
-total 44
-drwxr-xr-x 2 root root 266 Feb 13 06:53 .
-drwxr-xr-x 6 root root 177 Feb 13 05:44 ..
--rwxr--r-- 1 root root  32 Feb 13 05:57 0-hello_world
--rwxr--r-- 1 root root  28 Feb 13 06:00 1-confused_smiley
--rwxr--r-- 1 root root  28 Feb 13 06:06 2-hellofile
--rwxr--r-- 1 root root  39 Feb 13 06:10 3-twofiles
--rwxr--r-- 1 root root  29 Feb 13 06:14 4-lastlines
--rwxr--r-- 1 root root  29 Feb 13 06:18 5-firstlines
--rwxr--r-- 1 root root  40 Feb 13 06:25 6-third_line
--rwxr--r-- 1 root root  78 Feb 13 06:38 7-file
--rwxr--r-- 1 root root  36 Feb 13 06:53 8-cwd_state
--rw-r--r-- 1 root root  12 Feb 13 06:38 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 root root   0 Feb 13 06:53 ls_cwd_content
--rw-r--r-- 1 root root  32 Feb 13 06:52 README.md
+total 116
+drwxr-xr-x 2 root root 4096 Feb 14 10:27 .
+drwxr-xr-x 7 root root  216 Feb 14 09:01 ..
+-rwxr--r-- 1 root root   32 Feb 13 05:57 0-hello_world
+-rwxr--r-- 1 root root   41 Feb 13 11:19 100-empty_casks
+-rwxr--r-- 1 root root  104 Feb 13 11:23 101-gifs
+-rwxr--r-- 1 root root   50 Feb 13 11:52 102-acrostic
+-rwxr--r-- 1 root root   91 Feb 13 11:55 103-the_biggest_fan
+-rwxr--r-- 1 root root   46 Feb 13 07:05 10-no_more_js
+-rwxr--r-- 1 root root   45 Feb 13 08:05 11-directories
+-rwxr--r-- 1 root root   29 Feb 13 08:17 12-newest_files
+-rwxr--r-- 1 root root   27 Feb 13 08:31 13-unique
+-rwxr--r-- 1 root root   34 Feb 13 08:35 14-findthatword
+-rwxr--r-- 1 root root   36 Feb 13 08:40 15-countthatword
+-rwxr--r-- 1 root root   52 Feb 13 09:28 16-whatsnext
+-rwxr--r-- 1 root root   36 Feb 13 10:03 17-hidethisword
+-rwxr--r-- 1 root root   21 Feb 13 10:16 19-AZ
+-rwxr--r-- 1 root root   28 Feb 13 06:00 1-confused_smiley
+-rwxr--r-- 1 root root   21 Feb 13 10:36 20-hiago
+-rwxr--r-- 1 root root   16 Feb 13 10:43 21-reverse
+-rwxr--r-- 1 root root   49 Feb 13 10:54 22-users_and_homes
+-rwxr--r-- 1 root root   28 Feb 13 06:06 2-hellofile
+-rwxr--r-- 1 root root   39 Feb 13 06:10 3-twofiles
+-rwxr--r-- 1 root root   29 Feb 13 06:14 4-lastlines
+-rwxr--r-- 1 root root   29 Feb 13 06:18 5-firstlines
+-rwxr--r-- 1 root root   40 Feb 13 06:25 6-third_line
+-rwxr--r-- 1 root root   78 Feb 13 06:38 7-file
+-rwxr--r-- 1 root root   36 Feb 14 10:27 8-cwd_state
+-rwxr--r-- 1 root root   35 Feb 13 06:58 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Feb 13 06:38 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Feb 13 06:59 iacta
+-rw-r--r-- 1 root root    0 Feb 14 10:27 ls_cwd_content
+-rw-r--r-- 1 root root   12 Feb 13 11:54 README.md
