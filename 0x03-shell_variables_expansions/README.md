@@ -1,1 +1,1 @@
-Strong encryption
+Odd numbered eggs
